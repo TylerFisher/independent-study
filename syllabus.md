@@ -80,4 +80,9 @@ Explore as many existing data visualizations as possible for inspiration (always
 
 **Tutorials (R in Action, d3 tutorials)**: 30% of grade. Assessment of completion will happen through demonstration of the lesson tutorials during weekly meetings with advisors. Focus will be on the student's grasp of the concepts provided in the tutorial, not on whether the directions of the tutorial were followed explicitly.
 
-**Final project**: 50% of grade. Each of the three iterations will receive 10% of the grade, while the final product will receive the remaining 20% of the grade. Assessment of the iterations will happen through demosntration during weekly meetings, and the final project will include a more formal presentation of the project, hopefully to a wider audience. Focus 
+**Final project**: 50% of grade. Each of the three iterations will receive 10% of the grade, while the final product will receive the remaining 20% of the grade. Assessment of the iterations will happen through demosntration during weekly meetings, and the final project will include a more formal presentation of the project, hopefully to a wider audience. The following aspects of the project will be assessed:
+
+* Overall design: Is the design aesthetically pleasing? Is it easy to follow? Does the design allow the story to be told effectively?
+* Interactivity: Do all of the interactive functions work as expected? Does the interactivity add anything to the story being told?
+* Storytelling: Is the story told by the data compelling and interesting? Is the story told well, or are components missing that would make the story understandable?
+* Statistical analysis: Is the statistical analysis correct? Are the numbers presented misleading in any way?
