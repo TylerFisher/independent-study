@@ -57,21 +57,21 @@ Explore as many existing data visualizations as possible for inspiration (always
 ##Week 8
 
 #### Iteration 2 ####
-**Read**: ?  
+**Read**: As needed  
 **Do**: Finish the second iteration (improvements from the first, basic interactivity)
 
 ##Week 9
 
 #### Iteration 3 ####
 
-**Read**: ?  
+**Read**: As needed  
 **Do**: Finish the third iteration (essentially final, one more time for corrections, demo for paired publication if necessary)
 
 ##Week 10
 
 #### Final Iteration / Launch ####
 
-**Read**: ?  
+**Read**: As needed  
 **Do**: Finish the final iteration and launch the project (either deploy to own hosted server or publish with paired publication)
 
 #Grading Policy
@@ -82,7 +82,7 @@ Explore as many existing data visualizations as possible for inspiration (always
 
 **Final project**: 50% of grade. Each of the three iterations will receive 10% of the grade, while the final product will receive the remaining 20% of the grade. Assessment of the iterations will happen through demosntration during weekly meetings, and the final project will include a more formal presentation of the project, hopefully to a wider audience. The following aspects of the project will be assessed:
 
-* Overall design: Is the design aesthetically pleasing? Is it easy to follow? Does the design allow the story to be told effectively?
-* Interactivity: Do all of the interactive functions work as expected? Does the interactivity add anything to the story being told?
 * Storytelling: Is the story told by the data compelling and interesting? Is the story told well, or are components missing that would make the story understandable?
 * Statistical analysis: Is the statistical analysis correct? Are the numbers presented misleading in any way?
+* Interactivity: Do all of the interactive functions work as expected? Does the interactivity add anything to the story being told?
+* Overall design: Is the design aesthetically pleasing? Is it easy to follow? Does the design allow the story to be told effectively?
