@@ -6,9 +6,11 @@ For the past two years, I have been building my skills as an interactive web dev
 
 Furthermore, I developed these skills under the tutelage of professional news applications teams during my internship with the *Chicago Tribune* News Applications Team as well as working with the Knight News Innovation Lab. Much of the Interactive News syllabus teaches the fundamentals of HTML, CSS, and JavaScript, something I have already mastered not only through my direct experience with the languages but also through equivalent courses in the Computer Science department (EECS 130, EECS 330) and in Medill itself (Innovations in Journalism and Technology, Advanced Interactive and Design) I received an A in each of these classes. 
 
-Thus, I am proposing a more ambitious data visualization independent study that will teach me skills I have not yet developed. I have found that, while I have developed good web development skills, I have never used them to do my *own* storytelling. That, ultimately, is the goal of this independent study. I hope to produce a comprehensive, engaging data presentation that tells an original story. To do so, I must develop skills that help me achieve three things:
+But I want to expand my skills in a new direction. My learning goal for the quarter is better understand how to tell stories through data. I want to explore data gathering, analysis and presentation.
 
-1. Programmatically perform statistical analysis on a set of data using R.
+To do so I've crafted an independent study that will help me achieve those goals and learn new skills. I have found that, while I have developed good web development skills, I have never used them to do my *own* storytelling. That, ultimately, is the goal of this independent study. I hope to produce a comprehensive, engaging data presentation that tells an original story. The three main skills I plan on learning are:
+
+1. Programmatically perform statistical analysis on a set of data using R or similar tool.
 2. Develop data visualizations with d3.js or a similar tool.
 3. Design engaging presentations that are both attractive and useful for narrative storytelling.
 
