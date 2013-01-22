@@ -13,7 +13,7 @@ for s in schedule:
     for r in trs:
         tds = r.findAll('td')
         if len(tds) == 0:
-            print "list is empty"
+            pass
         else:
             link = tds[1].a['href']
             string_link = str(link)
@@ -40,6 +40,6 @@ for l in link_list:
             team = tds[0].string
             score_type = tds[1].string
             time = tds[2].string
-            NW_score = tds[4].string
-            SY_score = tds[5].string
-            print team, score_type, time, NW_score, SY_score
+            away_score = tds[4].string
+            home_score = tds[5].string
+            print team, score_type, time, away_score, home_score
