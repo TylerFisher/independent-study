@@ -39,30 +39,30 @@
 
 ## Pass to Run Ratio:
 
-1st quarter: 29/50
-2nd quarter: 39.5/50
-3rd quarter: 35.5/50
+1st quarter: 29/50  
+2nd quarter: 39.5/50  
+3rd quarter: 35.5/50  
 4th quarter: 23/50
 
 # Northwestern Losses
 
 ## Passes:
 
-1st quarter: 12
-2nd quarter: 34
-3rd quarter: 22
-4th quarter: 26
+1st quarter: 12  
+2nd quarter: 34  
+3rd quarter: 22  
+4th quarter: 26  
 
 ## Rushes:
 
-1st quarter: 22
-2nd quarter: 34
-3rd quarter: 33
-4th quarter: 28
+1st quarter: 22  
+2nd quarter: 34  
+3rd quarter: 33  
+4th quarter: 28  
 
 ## Pass to Run Ratio:
 
-1st quarter: 27.5/100
-2nd quarter: 50/50
-3rd quarter: 33/50
+1st quarter: 27.5/50  
+2nd quarter: 50/50  
+3rd quarter: 33/50  
 4th quarter: 46.5/50
