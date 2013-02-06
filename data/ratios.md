@@ -9,10 +9,10 @@
 4th quarter: 12715  
 
 #### By down
-1st down: 20676
-2nd down: 17978
-3rd down: 14676
-4th down: 1204
+1st down: 20676  
+2nd down: 17978  
+3rd down: 14676  
+4th down: 1204  
 
 ## Rushes:
 
@@ -23,10 +23,10 @@
 4th quarter: 16646  
 
 #### By down
-1st down: 32003
-2nd down: 21314
-3rd down: 9719
-4th down: 1452
+1st down: 32003  
+2nd down: 21314  
+3rd down: 9719  
+4th down: 1452  
 
 ## Pass to Rush Ratio:
 
@@ -37,10 +37,10 @@
 4th quarter: 38/50 
 
 #### By down
-1st down: 32.5/50
-2nd down: 48/50
-3rd down: 81/50
-4th down: 41.5/50
+1st down: 32.5/50  
+2nd down: 48/50  
+3rd down: 81/50  
+4th down: 41.5/50  
 
 # Northwestern, All Plays
 
@@ -53,10 +53,10 @@
 4th quarter: 81  
 
 #### By down
-1st down: 152
-2nd down: 116
-3rd down: 96
-4th down: 5
+1st down: 152  
+2nd down: 116  
+3rd down: 96  
+4th down: 5  
 
 ## Rushes:
 
@@ -67,10 +67,10 @@
 4th quarter: 178  
 
 #### By down
-1st down: 274
-2nd down: 210
-3rd down: 100
-4th down: 11
+1st down: 274  
+2nd down: 210  
+3rd down: 100  
+4th down: 11  
 
 ## Pass to Run Ratio:
 
@@ -82,10 +82,10 @@
 
 #### By down
 
-1st down: 14/50
-2nd down: 27.5/50
-3rd down: 48/50
-4th down: 5/11
+1st down: 14/50  
+2nd down: 27.5/50  
+3rd down: 48/50  
+4th down: 5/11  
 
 # Northwestern Losses
 
@@ -100,10 +100,10 @@
 
 #### By down
 
-1st down: 39
-2nd down: 27
-3rd down: 27
-4th down: 1
+1st down: 39  
+2nd down: 27  
+3rd down: 27  
+4th down: 1  
 
 ## Rushes:
 
@@ -116,10 +116,10 @@
 
 #### By down
 
-1st down: 50
-2nd down: 45
-3rd down: 22
-4th down: 4
+1st down: 50  
+2nd down: 45  
+3rd down: 22  
+4th down: 4  
 
 ## Pass to Run Ratio:
 
@@ -132,7 +132,7 @@
 
 #### By down 
 
-1st down: 39/50
-2nd down: 30/50
-3rd down: 40.5/50
-4th down: 1/4
+1st down: 39/50  
+2nd down: 30/50  
+3rd down: 40.5/50  
+4th down: 1/4  
